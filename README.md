@@ -29,9 +29,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-[![rkrz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkrz21&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrz21&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![rkrz's github stats](https://github-stats-extended.vercel.app/api?username=rkrz21&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=rkrz21&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 ---
 
