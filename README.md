@@ -1,6 +1,6 @@
 <img align="right" src="Nazuna_Nanakusa_Call_of_the_Night_Yofukashi_no_Uta-2181429-3715795970.jpg" width="30%" alt="Nazuna Nanakusa - Call of the Night">
 
-# Hi, I'm rkrz (MrMastered)
+# Hi, I'm rkrz
 
 **just a silly guy on the internet**
 
@@ -30,8 +30,8 @@
 
 ## 📈 GitHub Stats
 
-[![MrMastered's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMastered&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMastered&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![rkrz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkrz21&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkrz21&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
